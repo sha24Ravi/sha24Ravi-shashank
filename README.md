@@ -9,7 +9,6 @@ My experience spans relational and NoSQL databases, REST APIs, and distributed a
 
 <p align="center">
   <a href="https://github.com/sha24Ravi">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Shashank Ravi" /></a>
 </p>
 
 <p align="center">
